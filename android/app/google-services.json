@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "520975411230",
+    "project_id": "mangala-sangamam-2e680",
+    "storage_bucket": "mangala-sangamam-2e680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520975411230:android:839b57e3bfc14c114e660f",
+        "android_client_info": {
+          "package_name": "com.example.msclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520975411230-h2cnf8q58s0rga24u54vb51ev7k22jqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLNUbk3ZykknbxCzD2a2CmVvFaHYzr5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520975411230-h2cnf8q58s0rga24u54vb51ev7k22jqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520975411230:android:66accd880f23dbb04e660f",
+        "android_client_info": {
+          "package_name": "com.example.msserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520975411230-h2cnf8q58s0rga24u54vb51ev7k22jqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLNUbk3ZykknbxCzD2a2CmVvFaHYzr5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520975411230-h2cnf8q58s0rga24u54vb51ev7k22jqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
